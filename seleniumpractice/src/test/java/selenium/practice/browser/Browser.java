@@ -10,6 +10,5 @@ public static void main(String[] args) {
 	driver.get("https://rahulshettyacademy.com/AutomationPractice/");
 	driver.manage().window().maximize();
 	driver.quit();
-	//add a quit method
 	}
 }
